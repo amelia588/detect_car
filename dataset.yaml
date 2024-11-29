@@ -1,0 +1,7 @@
+train: C:\Users\SOPORTE\Desktop\Detector\data\train\labels
+
+val: C:\Users\SOPORTE\Desktop\Detector\data\val\labels
+
+nc: 1
+
+names: ['carro']
